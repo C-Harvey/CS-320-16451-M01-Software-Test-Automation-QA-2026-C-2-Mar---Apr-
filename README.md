@@ -2,7 +2,7 @@
 8-2 Journal: Portfolio Item
 
 
-.
+
 **How can I ensure that my code, program, or software is functional and secure?**
 
 I like to start by getting all the info needed for what the application is. Talking with the stakeholders and or the director is important for obtaining a blueprint of what the team needs to write.
@@ -24,7 +24,6 @@ I worked around this concept this term when writing an application and setting u
 I was taught about static testing in IDEs and how warnings should not be ignored. We also learned that the IDE isn't the only thing we should use when debugging or for checking security flaws.
 
 
-.
 **How do I interpret user needs and incorporate them into a program?**
 
 I start by talking with the people who actually need the software. Stakeholders or managers requesting it usually know the problem they want solved, even if they don't explain it in technical terms. 
@@ -42,7 +41,6 @@ I used this mindset during this course when converting assignment instructions i
 Programming isn't just writing code; it's solving an engineering problem.
 
 
-.
 **How do I approach designing software?**
 
 There's more to writing code than just writing code; it's solving an engineering problem.
