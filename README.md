@@ -2,8 +2,8 @@
 8-2 Journal: Portfolio Item
 
 
-
-How can I ensure that my code, program, or software is functional and secure?
+.
+**How can I ensure that my code, program, or software is functional and secure?**
 
 I like to start by getting all the info needed for what the application is. Talking with the stakeholders and or the director is important for obtaining a blueprint of what the team needs to write.
 During these discussions, it's also important to talk about security right away. A blueprint with security and clear requirements will be needed for the team to start. It's also important that all team members uphold a security mindset when writing anything.
@@ -24,8 +24,8 @@ I worked around this concept this term when writing an application and setting u
 I was taught about static testing in IDEs and how warnings should not be ignored. We also learned that the IDE isn't the only thing we should use when debugging or for checking security flaws.
 
 
-
-How do I interpret user needs and incorporate them into a program?
+.
+**How do I interpret user needs and incorporate them into a program?**
 
 I start by talking with the people who actually need the software. Stakeholders or managers requesting it usually know the problem they want solved, even if they don't explain it in technical terms. 
 It's important to listen carefully, document, and then ask follow up questions so the real need is understood instead of making assumptions. A lot of times users explain what they want, but not what they actually need. 
@@ -42,8 +42,8 @@ I used this mindset during this course when converting assignment instructions i
 Programming isn't just writing code; it's solving an engineering problem.
 
 
-
-How do I approach designing software?
+.
+**How do I approach designing software?**
 
 There's more to writing code than just writing code; it's solving an engineering problem.
 You can think of it as building an equation. Writing the software is solving it. Just like any math problem, you break down complicated equations with something like PEMDAS. Break down big goals into smaller ones. Think about the scope early when making the blueprint!
