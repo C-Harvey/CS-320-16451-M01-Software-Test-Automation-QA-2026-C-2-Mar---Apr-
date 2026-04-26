@@ -1,6 +1,8 @@
 # CS-320-16451-M01-Software-Test-Automation-QA-2026-C-2-Mar---Apr-
 8-2 Journal: Portfolio Item
 
+
+
 How can I ensure that my code, program, or software is functional and secure?
 
 I like to start by getting all the info needed for what the application is. Talking with the stakeholders and or the director is important for obtaining a blueprint of what the team needs to write.
@@ -21,6 +23,8 @@ Think like the attacker from a bias of each angle you can think of, and test you
 I worked around this concept this term when writing an application and setting up Junit tests to check for security flaws, normal working code function along with negative. We checked for failure points as well. We used Google tests to check C++ and Maven to check Java.
 I was taught about static testing in IDEs and how warnings should not be ignored. We also learned that the IDE isn't the only thing we should use when debugging or for checking security flaws.
 
+
+
 How do I interpret user needs and incorporate them into a program?
 
 I start by talking with the people who actually need the software. Stakeholders or managers requesting it usually know the problem they want solved, even if they don't explain it in technical terms. 
@@ -36,6 +40,8 @@ Detailed instructions could be skipped as users are more prone to make assumptio
 Testing also helps interpret user needs. If I can write a test for a requirement, then the requirement is probably clear enough to build. If I can't write a test for it, then I will need to find time to find out what those requirements are for sure.
 I used this mindset during this course when converting assignment instructions into working Java and C++ projects. I had to read the requirements, break them down, and then turn them into code and test cases. 
 Programming isn't just writing code; it's solving an engineering problem.
+
+
 
 How do I approach designing software?
 
